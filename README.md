@@ -7,3 +7,6 @@ This a simple example of Object-Oriented Programming (OOP) in Python. The exampl
 - Takes in a string of account type (basic, checking, or savings) and returns a new account object.
 - It also accepts and passes through kwargs so if a account has any additional attributes, they can be set during creation.
 
+## Helper2
+- Testing abstractmethod
+- This forces the derived class to implement the abstract method.
